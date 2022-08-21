@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gniper
+- 👀 I’m interested in Unix-like systems, and Web development.
+- 🌱 I’m currently learning c/c++, rust, and JS.
+- 📫 How to reach me: gnpier@proton.me
